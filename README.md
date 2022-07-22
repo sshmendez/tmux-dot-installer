@@ -1,6 +1,6 @@
 ## Tmux basics
 
-`tmux` can be used as a noprmal terminal emulator with persistence, although if you want to get more out of it there are a couple basic things you should know.
+`tmux` can be used as a normal terminal emulator with persistence, although if you want to get more out of it there are a couple basic things you should know.
 
 In tmux there is a key-combo called the `prefix` in the standard configuration (and in this configuration) the prefix is `Ctrl-b`. This config contains a few lines at the beginning that describe how to change the prefix to the keys of your liking, though I recommend using the default. 
 
